@@ -141,6 +141,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://www.cybercure.ai/" target="_blank">Cyber Cure free intelligience feeds</a>
+        </td>
+        <td>
+            CyberCure offers free cyber threat intelligence feeds that includes list of IP addresses that are currently infected and attacking on the internet. list of urls used by malware and list of hash files of known malware that is currently spreading. CyberCure is only using sensors to collect the intelligience with very low false postives. detailed documentation is available as well, <a href="https://docs.cybercure.ai" target="_blank">You can see the documentation here.</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.cymon.io/" target="_blank">Cymon</a>
         </td>
         <td>
@@ -287,7 +295,15 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>
             The MalShare Project is a public malware repository that provides researchers free access to samples.
         </td>
-    </tr>    
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.maltiverse.com/" target="_blank">Maltiverse</a>
+        </td>
+        <td>
+            The Maltiverse Project is a big and enriched IoC database where is possible to make complex queries, and aggregations to investigate about malware campaigns and its infrastructures. It also has a great IoC bulk query service.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://www.malwaredomainlist.com/" target="_blank">Malware Domain List</a>
@@ -310,14 +326,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             Metadefender Cloud Threat Intelligence Feeds contains top new malware hash signatures, including MD5, SHA1, and SHA256. These new malicious hashes have been spotted by Metadefender Cloud within the last 24 hours. The feeds are updated daily with newly detected and reported malware to provide actionable and timely threat intelligence.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://minotr.net/" target="_blank">Minotaur</a>
-        </td>
-        <td>
-        The Minotaur Project is an ongoing research project by the team at NovCon Solutions (novcon.net). It is being built as a hub for security professionals, researchers and enthusiasts to discover new threats and discuss mitigations. It is a combination of 3rd-party opensource software, local datasets, new analysis tools, and more.
         </td>
     </tr>
     <tr>
@@ -406,7 +414,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="https://siteinfo.statvoo.com/dl/top-1million-sites.csv.zip" target="_blank">Statvoo Top 1 Million Sites</a>
+            <a href="https://statvoo.com/dl/top-1million-sites.csv.zip" target="_blank">Statvoo Top 1 Million Sites</a>
         </td>
         <td>
             Probable Whitelist of the top 1 million web sites, as ranked by Statvoo.
@@ -835,6 +843,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         </td>
         <td>
             Facebook created ThreatExchange so that participating organizations can share threat data using a convenient, structured, and easy-to-use API that provides privacy controls to enable sharing with only desired groups. This project is still in <b>beta</b>. Reference code can be found at <a href="https://github.com/facebook/ThreatExchange" target="_blank">GitHub</a>.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://beta.virusbay.io/" target="_blank">VirusBay</a>
+        </td>
+        <td>
+            VirusBay is a web-based, collaboration platform that connects security operations center (SOC) professionals with relevant malware researchers.
         </td>
     </tr>
     <tr>
@@ -1508,6 +1524,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
         <td>
             The Traffic Light Protocol (TLP) is a set of designations used to ensure that sensitive information is shared with the correct audience. It employs four colors to indicate different degrees of sensitivity and the corresponding sharing considerations to be applied by the recipient(s).
         </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://pan-unit42.github.io/playbook_viewer/" target="_blank">Unit42 Playbook Viewer</a>
+        </td> 
+        <td>
+            The goal of the Playbook is to organize the tools, techniques, and procedures that an adversary uses into a structured format, which can be shared with others, and built upon. The frameworks used to structure and share the adversary playbooks are MITRE's ATT&CK Framework and STIX 2.0
+        </td>    
     </tr>
     <tr>
         <td>
